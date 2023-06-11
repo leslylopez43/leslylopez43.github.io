@@ -12,10 +12,13 @@ This is a simple Bootstrap 5 website template. showcasing the Elena Method of He
 - [Method Yuen](#method-yuen)
 - [Screenshots](#screenshots)
 - [Description](#description)
+  - [About us](#about-us) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
+- [Footer](#footer)
 
 ## Screenshots
 
@@ -129,8 +132,7 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 
 ### Send me an Email
 
-You can also email me at [seletos831@hotmail.com].
-
+You can also email me at [seletos831@hotmail.com](mailto:seletos831@hotmail.com).
 
 ## Installation
 
@@ -144,6 +146,33 @@ Feel free to modify the website as per your requirements. Update the images, tex
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+Contributions to this project are welcome! If you have any improvements or new features to suggest, please follow these steps:
+
+Fork the repository by clicking the "Fork" button on the GitHub repository page.
+Clone the forked repository to your local machine.
+bash
+Copy code
+git clone https://github.com/your-username/repository.git
+Create a new branch for your contribution.
+arduino
+Copy code
+git checkout -b feature/new-feature
+Make your desired changes to the code.
+Commit your changes with a descriptive commit message.
+sql
+Copy code
+git commit -m "Add new feature"
+Push your changes to your forked repository.
+arduino
+Copy code
+git push origin feature/new-feature
+Open a pull request on the original repository and provide a clear description of your changes.
+Once your pull request is reviewed and accepted, it will be merged into the main project.
+
+Thank you for considering contributing to this project! Your efforts are greatly appreciated.
+
+Please let me know if there's anything else I can help you with!
 
 ## License
 
