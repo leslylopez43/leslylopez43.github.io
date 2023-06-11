@@ -127,7 +127,6 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 ### Complete the Form
 
 <form method="POST" action="https://formdump.codeinstitute.net/">
-  <form method="POST" action="https://formdump.codeinstitute.net/">
   <div class="container mt-5">
     <div class="row g-3">
       <div class="col-12">
@@ -181,7 +180,7 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
   </div>
 </form>
 
-</form>
+
 
 ### Send me an Email
 
