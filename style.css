@@ -1,0 +1,14 @@
+  .nav-link:hover{
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(43, 128, 226);
+    text-align: center;
+    font: italic;
+    line-height: 40px;
+    width: 20%;
+}
+.nav-link.active{
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 100px #03e9f4;    
