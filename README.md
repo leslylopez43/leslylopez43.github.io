@@ -89,6 +89,11 @@ He is also a doctor of chiropractic and now consults patients who suffer from ch
 
 According to Yuen and Greenberg, the Yuen Method "relieves pain through feeling for the exact causes of pain... [termed] weaknesses, then strengthening the deletion process for the deletion to take place," and the process then resets "the mind, body, spirit".
 
+## About us
+        Method of London believes in using ancient healing knowledge that is <mark>scientifically researched</mark> and creating practical lifestyle enhancement programmes for individuals looking to initiate the journey of bettering their health. 
+        Our mediation and therapies schedules engage you in the process of spiritual wellness; Our qualified experienced trainers guide you through the programs taking into account your core stability and muscular endurance; 
+        Our Doctors create diet plans and prescribe curative therapies based on your personal requirements, thereby creating a result-oriented retreat for you.
+
 
 ## About Me (img/about_me.png)
 
@@ -113,6 +118,18 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 - [Video 2](https://youtu.be/GulTOKIK3bE)
 - [Video 3](https://youtu.be/vCcbCS5dtbI)
 
+
+## Contact Me
+
+### Complete the Form
+
+<form method="POST" action="https://formdump.codeinstitute.net/">
+  <!-- Form code here -->
+</form>
+
+### Send me an Email
+
+You can also email me at [myemail@example.com](mailto:myemail@example.com).
 
 
 ## Installation
