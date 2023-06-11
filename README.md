@@ -126,6 +126,20 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 
 ### Complete the Form
 
+To complete the form, follow these steps:
+
+1. Fill in the required fields:
+   - Email address: Enter your email address. We'll never share it with anyone else.
+   - Password: Enter a password that is 8-20 characters long.
+   - Wellness objective: Select your wellness objective from the dropdown menu.
+   - First Name: Enter your first name.
+   - Last Name: Enter your last name.
+   - Comments: Leave any comments or additional information in this field.
+
+2. Check the "I acknowledge terms & conditions" checkbox to indicate that you agree to the terms.
+
+3. Click the "Submit" button to submit the form.
+
 <form method="POST" action="https://formdump.codeinstitute.net/">
   <div class="container mt-5">
     <div class="row g-3">
@@ -179,7 +193,6 @@ Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
     </div>
   </div>
 </form>
-
 
 
 ### Send me an Email
