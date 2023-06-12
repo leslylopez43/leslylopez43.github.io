@@ -28,6 +28,12 @@ This is a simple Bootstrap 5 website template. showcasing the Elena Method of He
 ![Screenshot 4](Img/prk-1.jpeg)
 ![Screenshot 5](Img/b5.png)
 
+##validator w3
+https://validator.w3.org/nu/#textarea
+![Screenshot 1](img/About_us_Validator.png)
+![Screenshot 2](img/contact_us_validator.png)
+![Screenshot 3](img/method_validator.png)
+![Screenshot 3](img/index_validator.png)
 ## Technologies Used
 
 - HTML
