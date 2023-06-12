@@ -47,13 +47,13 @@ This is a simple Bootstrap 5 website template. showcasing the Elena Method of He
  ## resources used
  logo create with the free wix logo maker.
  https://www.wix.com/createlogo6/logo-maker?utm_source=google&utm_medium=cpc&utm_campaign=19604758696%5E145500310236&experiment_id=logo%20creator%20free%5Ee%5E645859685514%5E&gclid=CjwKCAjwhJukBhBPEiwAniIcNV20T0x_kC4ukp43mHa7YOzVXOP887Uh7BpS8KuTIyBR3YIAOMKdKhoCQB0QAvD_BwE
-
+remove background logo 
 
 
 # Project Name
 
 Short description of the project.
-
+remove/bg.com
 ## Description
 
 This website showcases the Elena Method of Healing and the activities of the Grigori Grabovoy Foundation. It includes sections on scientific and technological research, the foundation's activities, and contact information.
