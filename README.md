@@ -30,12 +30,12 @@ This is a simple Bootstrap 5 website template. showcasing the Elena Method of He
 
 ## validator w3
 
-https://validator.w3.org/nu/#textarea
+ https://validator.w3.org/nu/#textarea
 
-![Screenshot 1](img/About_us_Validator.png)
-![Screenshot 2](img/contact_us_validator.png)
-![Screenshot 3](img/method_validator.png)
-![Screenshot 3](img/index_validator.png)
+![Screenshot 6](img/About_us_Validator.png)
+![Screenshot 7](img/contact_us_validator.png)
+![Screenshot 8](img/method_validator.png)
+![Screenshot 9](img/index_validator.png)
 
 ## Technologies Used
 
