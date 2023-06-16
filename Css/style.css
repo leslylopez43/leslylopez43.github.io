@@ -23,65 +23,10 @@
       object-fit:cover;
       object-position:50% 50%;
      }
-  
-     /* Custom CSS styles */
-    
-    /* Example selector for .btn */
-    button.btn {bottom: unset;
-      /* Styles for .btn */
+     .method .img {
+      width: 100%; /* Adjust the width as per your requirement */
+      height: auto; /* Maintain the aspect ratio */
+      border-radius: 10px; /* Add border radius if desired */
+      /* Add any other styles you want */
     }
-
-    /* Example selector for .dropdown-menu-dark */
-    .dropdown-menu.dropdown-menu-dark {
-      /* Styles for .dropdown-menu-dark */
-    }
-
-    /* Example selector for .nav */
-    nav.nav {
-      /* Styles for .nav */
-    }
-
-    /* Example selector for .navbar-nav */
-    .navbar-nav.nav-pills.nav-justified {
-      /* Styles for .navbar-nav */
-    }
-
-    /* Example selector for .card */
-    .card {
-      /* Styles for .card */
-    }
-
-    /* Example selector for .breadcrumb */
-    .breadcrumb {
-      /* Styles for .breadcrumb */
-    }
-
-    /* Example selector for .toast */
-    .toast {
-      /* Styles for .toast */
-    }
-
-    /* Example selector for .modal */
-    .modal {
-      /* Styles for .modal */
-    }
-
-    /* Example selector for .tooltip */
-    .tooltip {
-      /* Styles for .tooltip */
-    }
-
-    /* Example selector for .popover */
-    .popover {
-      /* Styles for .popover */
-    }
-    
-    /* Example selector for .offcanvas */
-    .offcanvas,
-    .offcanvas-lg,
-    .offcanvas-md,
-    .offcanvas-sm,
-    .offcanvas-xl,
-    .offcanvas-xxl 
-      /* Styles for .offcanvas */
     
