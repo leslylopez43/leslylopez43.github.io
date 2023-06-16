@@ -66,7 +66,7 @@ Short description of the project.
 remove/bg.com
 ## Description
 
-This website showcases the Elena Method of Healing and the activities of the Grigori Grabovoy Foundation. It includes sections on scientific and technological research, the foundation's activities, and contact information.
+This website showcases the Elena Method of Healing and the activities of the DR kam Yuen and Grigori Grabovoy and Foundation. It includes sections on scientific and technological research, the foundation's activities, and contact information.
 
 ## Scientific and Technological Research
 
@@ -122,6 +122,12 @@ Method of London believes in using ancient healing knowledge that is <mark>scien
  Our mediation and therapies schedules engage you in the process of spiritual wellness; Our qualified experienced trainers guide you through the programs taking into account your core stability and muscular endurance; 
  Our Doctors create diet plans and prescribe curative therapies based on your personal requirements, thereby creating a result-oriented retreat for you.
 
+## to allowed to use or request
+they allowed to fill a form , 
+to contact by watsapp, 
+to watch some short videos. 
+![Screenshot 6](img/About_us_Validator.png)
+to redirect another website.
 
 ## About Me (img/about_me.png)
 
