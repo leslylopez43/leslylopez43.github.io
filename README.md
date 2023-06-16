@@ -5,6 +5,7 @@ Web app development Assignment 1
 
 This is a simple Bootstrap 5 website template. showcasing the Elena Method of Healing.
 
+
 ## Table of Contents
 
 - [About Me](#about-me)
