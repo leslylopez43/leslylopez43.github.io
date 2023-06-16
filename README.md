@@ -133,9 +133,9 @@ to redirect another website.
 
 Follow me on YouTube: [youtube.com/channel/your-channel](https://www.youtube.com/channel/your-channel)
 
-
+### Some Links
 Some useful links:
-[YouTube video](https://www.youtube.com/embed/dMqVh1hl6pA)](https://www.youtube.com/watch?v=dMqVh1hl6pA)
+[How to Cure Yourself](https://www.youtube.com/watch?v=dMqVh1hl6pA)
 
 - [YouTube video 2](https://www.youtube.com/embed/dMqVh1hl6pA)
 - [YouTube video 3](https://youtu.be/HnZRrKTRmcY)
@@ -145,9 +145,9 @@ Some useful links:
 
 Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 
-### Some Links
 
-- [How to Cure Yourself](https://www.youtube.com/embed/dMqVh1hl6pA)
+
+- [](https://www.youtube.com/embed/dMqVh1hl6pA)
 - [Video 1](https://youtu.be/HnZRrKTRmcY)
 - [Video 2](https://youtu.be/GulTOKIK3bE)
 - [Video 3](https://youtu.be/vCcbCS5dtbI)
