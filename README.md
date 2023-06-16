@@ -145,14 +145,6 @@ Some useful links:
 
 Elena Alzate London Metodos De Sanacion @elenaalzatelondonmetodosde4258
 
-
-
-- [](https://www.youtube.com/embed/dMqVh1hl6pA)
-- [Video 1](https://youtu.be/HnZRrKTRmcY)
-- [Video 2](https://youtu.be/GulTOKIK3bE)
-- [Video 3](https://youtu.be/vCcbCS5dtbI)
-
-
 ## Contact Me
 
 ### Complete the Form
