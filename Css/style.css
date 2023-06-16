@@ -23,7 +23,7 @@
       object-fit:cover;
       object-position:50% 50%;
      }
-     .method .img {
+     #grabovoi{
       width: 100%; /* Adjust the width as per your requirement */
       height: auto; /* Maintain the aspect ratio */
       border-radius: 10px; /* Add border radius if desired */
