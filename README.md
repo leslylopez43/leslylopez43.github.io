@@ -76,7 +76,7 @@ The Foundation works by directly and indirectly supporting the scientific and te
 
 ## Gregory Grabovoi
 
-![Gregory Grabovoi](/Image/img/Grigori_Grabovoi.png)
+![Gregory Grabovoi](/Image/Img/Grigori_Grabovoi.png)
 
 Grigori Grabovoi is a Russian Scientist and clairvoyant, Doctor of Physical-mathematical Sciences Doctor of technical Sciences, engaged throughout his career in various government programs, especially in the field of space technology.
 
@@ -135,7 +135,7 @@ Follow me on YouTube: [youtube.com/channel/your-channel](https://www.youtube.com
 
 
 Some useful links:
-[![YouTube video](https://www.youtube.com/embed/dMqVh1hl6pA)](https://www.youtube.com/watch?v=dMqVh1hl6pA)
+[YouTube video](https://www.youtube.com/embed/dMqVh1hl6pA)](https://www.youtube.com/watch?v=dMqVh1hl6pA)
 
 - [Link 1](https://www.youtube.com/embed/dMqVh1hl6pA)
 - [Link 2](https://youtu.be/HnZRrKTRmcY)
