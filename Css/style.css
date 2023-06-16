@@ -30,3 +30,7 @@
       /* Add any other styles you want */
     }
     
+    #channel{
+      width:fit-content;
+      height:fit-content;
+    } 
