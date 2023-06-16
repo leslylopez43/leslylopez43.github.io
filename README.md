@@ -32,20 +32,20 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 
 ## Screenshots
 
-![Screenshot 1](Img/b1.png)
-![Screenshot 2](Img/b2.png)
-![Screenshot 3](Img/b3.png)
-![Screenshot 4](Img/prk-1.jpeg)
-![Screenshot 5](Img/b5.png)
+![Screenshot 1](/Image/Img/b1.png)
+![Screenshot 2](/Image/Img/b2.png)
+![Screenshot 3](/Image/Img/b3.png)
+![Screenshot 4](/Image/Img/prk-1.jpeg)
+![Screenshot 5](/Image/Img/b5.png)
 
 ## validator w3
 
  https://validator.w3.org/nu/#textarea
 
-![Screenshot 6](img/About_us_Validator.png)
-![Screenshot 7](img/)
-![Screenshot 8](img/method_validator.png)
-![Screenshot 9](img/index_validator.png)
+![Screenshot 6](/Image/img/About_us_Validator.png)
+![Screenshot 7](/Image/img/)
+![Screenshot 8](/Image/img/method_validator.png)
+![Screenshot 9](/Image/img/index_validator.png)
 
 ## Technologies Used
 
@@ -72,11 +72,11 @@ This website showcases the Elena Method of Healing and the activities of the DR 
 
 The Foundation works by directly and indirectly supporting the scientific and technological research carried out by Grigori Grabovoi and spreading the scientific discoveries and technological devices of Grigori Grabovoi at an international level. PRK-1U – a device for the development of concentrations for eternal life – is currently available, also in the variant developed for medical profiles.
 
-![Scientific and Technological Research](Img/prk-1.jpeg)
+![Scientific and Technological Research](/Image/Img/prk-1.jpeg)
 
 ## Gregory Grabovoi
 
-![Gregory Grabovoi](img/Grigori_Grabovoi.png)
+![Gregory Grabovoi](/Image/img/Grigori_Grabovoi.png)
 
 Grigori Grabovoi is a Russian Scientist and clairvoyant, Doctor of Physical-mathematical Sciences Doctor of technical Sciences, engaged throughout his career in various government programs, especially in the field of space technology.
 
@@ -91,11 +91,11 @@ In 2008, he ran for the Russian presidential election with the intention of lead
 
 Activity: Keep strong, spirit, mind, and body. The Foundation’s main activity is in scientific research and in the provision of free health care for all, by providing online self-healing services and opening medical research institutes specialized in the treatment of the main diseases that afflict human beings.
 
-![Grigori Grabovoy Foundation](Img/b5.png)
+![Grigori Grabovoy Foundation](/Image/Img/b5.png)
 
 ## Method Yuen
 
-![Method Yuen](screenshots/yuen.png)
+![Method Yuen](/Image/Img/Yuen.png)
 
 The Science of Immediate Results.
 
@@ -126,7 +126,7 @@ Method of London believes in using ancient healing knowledge that is <mark>scien
 they allowed to fill a form , 
 to contact by watsapp, 
 to watch some short videos. 
-![Screenshot 6](img/About_us_Validator.png)
+![Screenshot 6](/Image/Img/About_us_Validator.png)
 to redirect another website.
 
 ## About Me (img/about_me.png)
