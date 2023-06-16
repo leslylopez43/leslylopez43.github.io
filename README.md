@@ -43,7 +43,7 @@ This is a Website template frame. showcasing the Elena Method of Healing.
  https://validator.w3.org/nu/#textarea
 
 ![Screenshot 6](img/About_us_Validator.png)
-![Screenshot 7](img/contact_us_validator.png)
+![Screenshot 7](img/)
 ![Screenshot 8](img/method_validator.png)
 ![Screenshot 9](img/index_validator.png)
 
