@@ -16,3 +16,11 @@
     border: none; /* Add this line to remove the frame border */
   }
   
+  .Yuen w-100
+     {
+      width:100%;
+      height:550px;
+      object-fit:cover;
+      object-position:50% 50%;
+     }
+  
