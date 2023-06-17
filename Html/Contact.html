@@ -11,6 +11,15 @@
     height: 200px;
     background: #aaa;
   }
+  @font-face {
+      font-family: 'YourWebFont';
+      src: url('/path/to/your-webfont.woff2') format('woff2'),
+           url('/path/to/your-webfont.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+      /* Add the font-display property */
+      font-display: swap;
+    }
   </style>
   <link rel="stylesheet" href="/Css/style.css">
 </head>
