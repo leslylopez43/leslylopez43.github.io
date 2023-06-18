@@ -1,7 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-}
 
+
+@font-face 
+  font-family: 'index.html.woff';
+  src: url('index.html.woff') format('woff2'),
+       url('inde.html.woff') format('woff');
+  font-display: swap;
+}
 .nav-link:hover {
   font-size: 2em;
   font-weight: bold;
