@@ -37,3 +37,48 @@ body {
       width:100%;
       height:auto;
     } 
+
+    
+    .method.body {
+      color: #000; /* Set the default text color */
+      background-color: #fff; /* Set the default background color */
+    }
+
+    /* Adjust the styles for the header */
+    .header {
+      padding: 5px;
+    }
+
+    .navbar {
+      background-color: #e3f2fd;
+    }
+
+    .navbar-brand {
+      color: #000;
+    }
+
+    .nav-link {
+      color: #000;
+    }
+
+    .nav-link.active {
+      color: #fff;
+      background-color: #007bff; /* Set the active link background color */
+    }
+
+    /* Update the container styles */
+    .container {
+      margin-top: 5rem;
+      color: #000;
+    }
+
+    /* Update the footer styles */
+    footer {
+      margin-top: 5rem;
+      background-color: #000;
+      color: #fff;
+    }
+
+    footer a {
+      color: #fff;
+    }
