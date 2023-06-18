@@ -45,40 +45,40 @@ body {
     }
 
     /* Adjust the styles for the header */
-    .header {
+    .method.header {
       padding: 5px;
     }
 
-    .navbar {
+    .method.navbar {
       background-color: #e3f2fd;
     }
 
-    .navbar-brand {
+    .method.navbar-brand {
       color: #000;
     }
 
-    .nav-link {
+    .method.nav-link {
       color: #000;
     }
 
-    .nav-link.active {
+    .metho.nav-link.active {
       color: #fff;
       background-color: #007bff; /* Set the active link background color */
     }
 
     /* Update the container styles */
-    .container {
+    .method.body.container {
       margin-top: 5rem;
       color: #000;
     }
 
     /* Update the footer styles */
-    footer {
+    .method.footer {
       margin-top: 5rem;
       background-color: #000;
       color: #fff;
     }
 
-    footer a {
+    .method.footer a {
       color: #fff;
     }
