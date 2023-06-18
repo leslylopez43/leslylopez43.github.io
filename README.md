@@ -4,8 +4,8 @@ Web app development Assignment 1
 # Website Method of Healing
 
 This is a Website template frame. showcasing the Elena Method of Healing.
-![Screenshot 1](//image/img/frame2.webp)
-![Screenshot 2](image/img/frame1.webp)
+![Screenshot 1](image/img/frame2.webp)
+![Screenshot 2](/image/img/frame1.webp)
 ## Wireframe for ipad
 ![Screenshot 1](/image/img/wireframe%20ipad1.webp)
 ![Screenshot 2](/image/img/wireframe_ipad2.webp)
