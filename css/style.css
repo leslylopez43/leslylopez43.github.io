@@ -89,3 +89,7 @@ footer a {
   color: whitesmoke;
 
 }
+
+aboutus a.nav-link.text-decoration-none {
+  color: #333; 
+}
