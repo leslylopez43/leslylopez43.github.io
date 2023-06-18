@@ -4,14 +4,14 @@ Web app development Assignment 1
 # Website Method of Healing
 
 This is a Website template frame. showcasing the Elena Method of Healing.
-![Screenshot 1](/Image/Img/frame2.webp)
-![Screenshot 2](/Image/Img/frame1.webp)
+![Screenshot 1](/image/img/frame2.webp)
+![Screenshot 2](/image/img/frame1.webp)
 ## Wireframe for ipad
-![Screenshot 1](/Image/Img/wireframe%20ipad1.webp)
-![Screenshot 2](/Image/Img/wireframe_ipad2.webp)
+![Screenshot 1](/image/img/wireframe%20ipad1.webp)
+![Screenshot 2](/image/img/wireframe_ipad2.webp)
 ## Wireframe for Iphone 12 Pro max
-![Screenshot 1](/Image/Img/wireframe_for_Iphone_12_pro_max1.webp)
-![Screenshot 2](/Image/Img/wireframe_for_Iphone_12_pro_max2.webp)
+![Screenshot 1](/image/img/wireframe_for_Iphone_12_pro_max1.webp)
+![Screenshot 2](/image/img/wireframe_for_Iphone_12_pro_max2.webp)
 
 
 
@@ -32,20 +32,20 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 
 ## Screenshots
 
-![Screenshot 1](/Image/Img/b1.webp)
-![Screenshot 2](/Image/Img/b2.webp)
-![Screenshot 3](/Image/Img/b3.webp)
-![Screenshot 4](/Image/Img/prk-1.webp)
-![Screenshot 5](/Image/Img/b5.webp)
+![Screenshot 1](/image/img/b1.webp)
+![Screenshot 2](/image/img/b2.webp)
+![Screenshot 3](/image/img/b3.webp)
+![Screenshot 4](/image/img/prk-1.webp)
+![Screenshot 5](/image/img/b5.webp)
 
 ## validator w3
 
  https://validator.w3.org/nu/#textarea
 
-![Screenshot 6](/Image/Img/About_us_Validator.webp)
-![Screenshot 7](/Image/Img/contact_us_validator.webp)
-![Screenshot 8](/Image/Img/method_validator.webp)
-![Screenshot 9](/Image/Img/index_validator.webp)
+![Screenshot 6](/image/img/about_us_Validator.webp)
+![Screenshot 7](/image/img/contact_us_validator.webp)
+![Screenshot 8](/image/img/method_validator.webp)
+![Screenshot 9](/image/img/index_validator.webp)
 
 ## Technologies Used
 
@@ -72,11 +72,11 @@ This website showcases the Elena Method of Healing and the activities of the DR 
 
 The Foundation works by directly and indirectly supporting the scientific and technological research carried out by Grigori Grabovoi and spreading the scientific discoveries and technological devices of Grigori Grabovoi at an international level. PRK-1U – a device for the development of concentrations for eternal life – is currently available, also in the variant developed for medical profiles.
 
-![Scientific and Technological Research](/Image/Img/prk-1.webp)
+![Scientific and Technological Research](/image/img/prk-1.webp)
 
 ## Gregory Grabovoi
 
-![Gregory Grabovoi](/Image/Img/Grigori_Grabovoi.webp)
+![Gregory Grabovoi](/image/img/Grigori_Grabovoi.webp)
 
 Grigori Grabovoi is a Russian Scientist and clairvoyant, Doctor of Physical-mathematical Sciences Doctor of technical Sciences, engaged throughout his career in various government programs, especially in the field of space technology.
 
@@ -91,11 +91,11 @@ In 2008, he ran for the Russian presidential election with the intention of lead
 
 Activity: Keep strong, spirit, mind, and body. The Foundation’s main activity is in scientific research and in the provision of free health care for all, by providing online self-healing services and opening medical research institutes specialized in the treatment of the main diseases that afflict human beings.
 
-![Grigori Grabovoy Foundation](/Image/Img/b5.webp)
+![Grigori Grabovoy Foundation](/image/img/b5.webp)
 
 ## Method Yuen
 
-![Method Yuen](/Image/Img/Yuen.webp)
+![Method Yuen](/image/img/Yuen.webp)
 
 The Science of Immediate Results.
 
@@ -126,7 +126,7 @@ Method of London believes in using ancient healing knowledge that is <mark>scien
 they allowed to fill a form , 
 to contact by watsapp, 
 to watch some short videos. 
-![Screenshot 6](/Image/Img/About_us_Validator.webp)
+![Screenshot 6](/image/img/About_us_Validator.webp)
 to redirect another website.
 
 ## About Me (img/about_me.png)
