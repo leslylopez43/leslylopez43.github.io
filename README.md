@@ -5,7 +5,7 @@ Web app development Assignment 1
 
 This is a Website template frame. showcasing the Elena Method of Healing.
 ![Screenshot 1](/image/img/frame2.webp)
-![Screenshot 2](/image/img/frame1.webp)
+![Screenshot 2](image/img/frame1.webp)
 ## Wireframe for ipad
 ![Screenshot 1](/image/img/wireframe%20ipad1.webp)
 ![Screenshot 2](/image/img/wireframe_ipad2.webp)
@@ -42,7 +42,7 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 
  https://validator.w3.org/nu/#textarea
 
-![Screenshot 6](/image/img/about_us_Validator.webp)
+![Screenshot 6](/image/img/About_us_Validator.webp)
 ![Screenshot 7](/image/img/contact_us_validator.webp)
 ![Screenshot 8](/image/img/method_validator.webp)
 ![Screenshot 9](/image/img/index_validator.webp)
@@ -163,59 +163,55 @@ To complete the form, follow these steps:
 
 3. Click the "Submit" button to submit the form.
 
-<form method="POST" action="https://formdump.codeinstitute.net/">
-  <div class="container mt-5">
-    <div class="row g-3">
-      <div class="col-12">
-        <label for="exampleInputEmail1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
-        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-      </div>
-      <div class="col-12">
-        <label for="inputPassword6" class="form-label">Password</label>
-        <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline" required>
-        <div id="passwordHelpInline" class="form-text">
-          Must be 8-20 characters long.
-        </div>
-      </div>
-      <div class="col-12">
-        <label for="wellnessObjective" class="form-label">What is your Wellness objective?</label>
-        <select class="form-select" id="wellnessObjective" aria-label="Wellness Objective" required>
-          <option selected disabled value="">Select an option</option>
-          <option value="1">Healing/Disease Reversal</option>
-          <option value="2">Immunity Boost</option>
-          <option value="3">Stress</option>
-          <option value="4">Fitness</option>
-          <option value="5">Injury</option>
-          <option value="6">Business</option>
-          <option value="7">Love</option>
-          <option value="8">Anything Else</option>
-        </select>
-      </div>
-      <div class="col-6">
-        <label for="firstName" class="form-label">First Name</label>
-        <input type="text" class="form-control" id="firstName" placeholder="First Name" required>
-      </div>
-      <div class="col-6">
-        <label for="lastName" class="form-label">Last Name</label>
-        <input type="text" class="form-control" id="lastName" placeholder="Last Name" required>
-      </div>
-      <div class="col-12">
-        <label for="comments" class="form-label">Comments</label>
-        <textarea class="form-control" id="comments" placeholder="Leave a comment here" style="height: 100px" required></textarea>
-      </div>
-      <div class="col-12">
-        <div class="form-check">
-          <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
-          <label class="form-check-label" for="exampleCheck1">I acknowledge terms &amp; conditions.</label>
-        </div>
-      </div>
-      <div class="col-12">
-        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
-      </div>
-    </div>
-  </div>
-</form>
+## Form
+
+To submit the form, please fill in the required fields and click the "Submit" button.
+
+- **Email address**
+  - Description: Enter your email address.
+  - Field: `<input type="email" id="exampleInputEmail1" required>`
+
+- **Password**
+  - Description: Enter a password.
+  - Field: `<input type="password" id="inputPassword6" required>`
+
+- **Wellness objective**
+  - Description: Select your wellness objective.
+  - Field:
+    ```html
+    <select id="wellnessObjective" required>
+      <option selected disabled value="">Select an option</option>
+      <option value="1">Healing/Disease Reversal</option>
+      <option value="2">Immunity Boost</option>
+      <option value="3">Stress</option>
+      <option value="4">Fitness</option>
+      <option value="5">Injury</option>
+      <option value="6">Business</option>
+      <option value="7">Love</option>
+      <option value="8">Anything Else</option>
+    </select>
+    ```
+
+- **First Name**
+  - Description: Enter your first name.
+  - Field: `<input type="text" id="firstName" placeholder="First Name" required>`
+
+- **Last Name**
+  - Description: Enter your last name.
+  - Field: `<input type="text" id="lastName" placeholder="Last Name" required>`
+
+- **Comments**
+  - Description: Leave a comment.
+  - Field: `<textarea id="comments" placeholder="Leave a comment here" style="height: 100px" required></textarea>`
+
+- **Terms and Conditions**
+  - Description: Acknowledge the terms and conditions.
+  - Field: `<input type="checkbox" id="exampleCheck1" required>`
+  - Label: `I acknowledge terms & conditions.`
+
+To submit the form, click the "Submit" button.
+
+- Button: `<button type="submit">Submit</button>`
 
 
 ### Send me an Email
