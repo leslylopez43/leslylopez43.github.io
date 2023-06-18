@@ -1,84 +1,84 @@
 body {
   font-family: Arial, sans-serif;
 }
+
 .nav-link:hover {
-    font-size: 2em;
-    font-weight: bold;
-    color: rgb(43, 128, 226);
-    text-align: center;
-    font-style: italic;
-    line-height: 40px;
-    width: 20%;
-    background: #3f56c0;
-    color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
-  }
+  font-size: 2em;
+  font-weight: bold;
+  color: rgb(43, 128, 226);
+  text-align: center;
+  font-style: italic;
+  line-height: 40px;
+  width: 20%;
+  background: #3f56c0;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+}
 
-  #channel {
-    border: none; /* Add this line to remove the frame border */
-  }
-  
-  #Yuen w-100
-     {
-      width:100%;
-      height:550px;
-      object-fit:cover;
-      object-position:50% 50%;
-     }
-     #grabovoi{
-      width: 100%; /* Adjust the width as per your requirement */
-      height: auto; /* Maintain the aspect ratio */
-      border-radius: 10px; /* Add border radius if desired */
-      /* Add any other styles you want */
-    }
-    
-    #channel{
-      width:100%;
-      height:auto;
-    } 
+#channel {
+  border: none; /* Add this line to remove the frame border */
+}
 
-    
-    .method.body {
-      color: #000; /* Set the default text color */
-      background-color: #fff; /* Set the default background color */
-    }
+#Yuen {
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
 
-    /* Adjust the styles for the header */
-    .method.header {
-      padding: 5px;
-    }
+#grabovoi {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  /* Add any other styles you want */
+}
 
-    .method.navbar {
-      background-color: #e3f2fd;
-    }
+#channel {
+  width: 100%;
+  height: auto;
+}
 
-    .method.navbar-brand {
-      color: #000;
-    }
+.method.body {
+  color: #000; /* Set the default text color */
+  background-color: #fff; /* Set the default background color */
+}
 
-    .method.nav-link {
-      color: #000;
-    }
+/* Adjust the styles for the header */
+.method.header {
+  padding: 5px;
+}
 
-    .metho.nav-link.active {
-      color: #fff;
-      background-color: #007bff; /* Set the active link background color */
-    }
+.method.navbar {
+  background-color: #e3f2fd;
+}
 
-    /* Update the container styles */
-    .method.body.container {
-      margin-top: 5rem;
-      color: #000;
-    }
+.method.navbar-brand {
+  color: #000;
+}
 
-    /* Update the footer styles */
-    .method.footer {
-      margin-top: 5rem;
-      background-color: #000;
-      color: #fff;
-    }
+.method.nav-link {
+  color: #000;
+}
 
-    .method.footer a {
-      color: #fff;
-    }
+.method.nav-link.active {
+  color: #fff;
+  background-color: #007bff; /* Set the active link background color */
+}
+
+/* Update the container styles */
+.method.body .container {
+  margin-top: 5rem;
+  color: #000;
+}
+
+/* Update the footer styles */
+.method.footer {
+  margin-top: 5rem;
+  background-color: #000;
+  color: #fff;
+}
+
+.method.footer a {
+  color: #fff;
+}
