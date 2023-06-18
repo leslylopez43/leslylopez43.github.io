@@ -90,6 +90,10 @@ footer a {
 
 }
 
-aboutus a.nav-link.text-decoration-none {
+.aboutus a.nav-link.text-decoration-none {
   color: #333; 
+}
+
+.aboutus nav.navbar.navbar-expand-sm.bg-light.fixed-top.nav-justified {
+  background-color: #f8f9fa; 
 }
