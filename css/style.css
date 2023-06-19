@@ -106,22 +106,22 @@ width:15%; height:auto;
   width:50%; height:auto;
 }
 
-.method .grabovoi{
+.method.grabovoi{
   width:100%; height:auto;
 }
 
-.method .nav-link.active {
+.method.nav-link.active {
   text-decoration: underline;
 }
 
  /* Adjust background and foreground colors for nav links */
-.navbar .nav-link {
+.navbar.nav-link {
   background-color: #e3f2fd;
   color: #000;
 }
 
 /* Apply different styles to active nav link */
-.navbar .nav-link.active {
+.navbar.nav-link.active {
   background-color: #fff;
   color: #000;
   font-weight: bold;
