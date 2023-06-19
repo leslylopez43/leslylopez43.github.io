@@ -115,13 +115,13 @@ width:15%; height:auto;
 }
 
  /* Adjust background and foreground colors for nav links */
- .aboutus .navbar .nav-link {
+.navbar .nav-link {
   background-color: #e3f2fd;
   color: #000;
 }
 
 /* Apply different styles to active nav link */
-.aboutus .navbar .nav-link.active {
+.navbar .nav-link.active {
   background-color: #fff;
   color: #000;
   font-weight: bold;
