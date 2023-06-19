@@ -97,3 +97,7 @@ footer a {
 .aboutus nav.navbar.navbar-expand-sm.bg-light.fixed-top.nav-justified {
   background-color: #f8f9fa; 
 }
+
+.img-fluid{
+width:20%; height:auto;
+}
