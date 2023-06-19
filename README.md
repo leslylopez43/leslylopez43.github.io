@@ -95,7 +95,7 @@ Activity: Keep strong, spirit, mind, and body. The Foundation’s main activity 
 
 ## Method Yuen
 
-![Method Yuen](/image/img/Yuen.webp)
+![Method Yuen](/image/img/yuen2.webp)
 
 The Science of Immediate Results.
 
