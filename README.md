@@ -47,6 +47,14 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 ![Screenshot 8](/image/img/method_validator.webp)
 ![Screenshot 9](/image/img/index_validator.webp)
 
+## lighthouse resource with chrome
+![Screenshot 6](/image/img/Screenshot%20home.png)
+![Screenshot 6](/image/img/Screenshot%20Method.png)
+![Screenshot 6](/image/img/Screenshot%20contact.png)
+![Screenshot1](/image/img/Screenshot%20about%20us.png)
+
+
+
 ## Technologies Used
 
 - HTML
@@ -121,6 +129,8 @@ According to Yuen and Greenberg, the Yuen Method "relieves pain through feeling 
 Method of London believes in using ancient healing knowledge that is <mark>scientifically researched</mark> and creating practical lifestyle enhancement programmes for individuals looking to initiate the journey of bettering their health. 
  Our mediation and therapies schedules engage you in the process of spiritual wellness; Our qualified experienced trainers guide you through the programs taking into account your core stability and muscular endurance; 
  Our Doctors create diet plans and prescribe curative therapies based on your personal requirements, thereby creating a result-oriented retreat for you.
+## to watch our proyect
+![Screenshot](/image/img/Screenshot%20_for_watch_%20videos.webp)
 
 ## to allowed to use or request
 they allowed to fill a form , 
