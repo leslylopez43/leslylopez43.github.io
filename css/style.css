@@ -109,3 +109,7 @@ width:15%; height:auto;
 .method .grabovoi{
   width:100%; height:auto;
 }
+
+.method .nav-link.active {
+  text-decoration: underline;
+}
