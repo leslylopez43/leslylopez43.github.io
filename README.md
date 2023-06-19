@@ -136,10 +136,9 @@ Method of London believes in using ancient healing knowledge that is <mark>scien
 they allowed to fill a form , 
 to contact by watsapp, 
 to watch some short videos. 
-![Screenshot 6](/image/img/About_us_Validator.webp)
 to redirect another website.
 
-## About Me (img/about_me.png)
+## About Me 
 
 Follow me on YouTube: [youtube.com/channel/your-channel](https://www.youtube.com/channel/your-channel)
 
