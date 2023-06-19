@@ -126,3 +126,8 @@ width:15%; height:auto;
   color: #000;
   font-weight: bold;
 }
+
+.methods.a.nav-link.active {
+  color: #ffffff; /* Update with a suitable text color for the active link */
+  background-color: #007bff; /* Update with a suitable background color for the active link */
+}
