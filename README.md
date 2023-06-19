@@ -49,7 +49,7 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 
 ## lighthouse resource with chrome
 ![Screenshot 6](/image/img/Screenshot%20home.png)
-![Screenshot 6](/image/img/Screenshot%20Method.png)
+![Screenshot 6](/image/img/Screenshot_Method.png)
 ![Screenshot 6](/image/img/Screenshot%20contact.png)
 ![Screenshot1](/image/img/Screenshot%20about%20us.png)
 
