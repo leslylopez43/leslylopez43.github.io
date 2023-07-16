@@ -38,6 +38,14 @@ The Method of Healing website was a testament to the power of ancient wisdom com
 This is a Website template frame. showcasing the Elena Method of Healing.
 
 
+
+## Screenshots
+
+![Screenshot 1](/image/img/b1.webp)
+![Screenshot 2](/image/img/b2.webp)
+![Screenshot 3](/image/img/b3.webp)
+![Screenshot 4](/image/img/prk-1.webp)
+![Screenshot 5](/image/img/b5.webp)
 ![Screenshot 1](image/img/frame2.webp)
 ![Screenshot 2](/image/img/frame1.webp)
 ## Wireframe for ipad
@@ -63,14 +71,6 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 - [License](#license)
 - [Contact](#contact)
 - [Footer](#footer)
-
-## Screenshots
-
-![Screenshot 1](/image/img/b1.webp)
-![Screenshot 2](/image/img/b2.webp)
-![Screenshot 3](/image/img/b3.webp)
-![Screenshot 4](/image/img/prk-1.webp)
-![Screenshot 5](/image/img/b5.webp)
 
 
 ## validator w3 HTML
