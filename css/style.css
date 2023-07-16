@@ -3,7 +3,7 @@ body {
 }
 
   @font-face {
-    font-family: 'YourFontName';
+    font-family: 'Verdana';
     src: url('path/to/index.html.woff') format('woff2'), url('path/to/index.html.woff') format('woff');
     font-display: swap;
   }
