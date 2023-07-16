@@ -39,6 +39,7 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 ![Screenshot 4](/image/img/prk-1.webp)
 ![Screenshot 5](/image/img/b5.webp)
 
+
 ## validator w3 HTML
 
  https://validator.w3.org/nu/#textarea
@@ -48,9 +49,11 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 ![Screenshot 8](/image/img/method_validator.webp)
 ![Screenshot 9](/image/img/index_validator.webp)
 
+
 ## validator w3 CSS
 ![error](/image/img/cssvalidator.webp)
 ![correction](/image/img/ccsvalidator-error.webp)
+
 
 ## lighthouse resource with chrome
 ![Screenshot 6](/image/img/Screenshot%20home.png)
