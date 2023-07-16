@@ -46,8 +46,12 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 ![Screenshot 3](/image/img/b3.webp)
 ![Screenshot 4](/image/img/prk-1.webp)
 ![Screenshot 5](/image/img/b5.webp)
+
+## Wireframe
+
 ![Screenshot 1](image/img/frame2.webp)
 ![Screenshot 2](/image/img/frame1.webp)
+
 ## Wireframe for ipad
 ![Screenshot 1](/image/img/wireframe%20ipad1.webp)
 ![Screenshot 2](/image/img/wireframe_ipad2.webp)
