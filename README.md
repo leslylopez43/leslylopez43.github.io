@@ -38,7 +38,6 @@ The Method of Healing website was a testament to the power of ancient wisdom com
 This is a Website template frame. showcasing the Elena Method of Healing.
 
 
-
 ## Screenshots
 
 ![Screenshot 1](/image/img/b1.webp)
