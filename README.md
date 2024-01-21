@@ -7,15 +7,18 @@ https://leslylopez43.github.io/
 
 ## Table of Contents
 
-- [About Me](#about-me)
+- [Project Method of Healing Website](#Project-Method-of-Healing-Website)
 - [Gregory Grabovoi](#gregory-grabovoi)
 - [Method Yuen](#method-yuen)
+- [User Story](#User-Story)
 - [Screenshots](#screenshots)
+- [Wireframes](#Wireframes)
 - [Description](#description)
-  - [About us](#about-us) 
+- [validator w3 HTML](#validator-w3-HTML)
+- [validator w3 CSS](#validator-w3-CSS)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Technologies Used](#Technologies-Used)
 - [License](#license)
 - [Contact](#contact)     
 
