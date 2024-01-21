@@ -1,7 +1,7 @@
 # Assignment1
 Web app development Assignment 1 
 
-# Website Method of Healing
+# Method of Healing Website
 https://leslylopez43.github.io/
 
 
@@ -43,13 +43,89 @@ The Method of Healing website was a testament to the power of ancient wisdom com
 This is a Website template frame. showcasing the Elena Method of Healing.
 
 
+
+
+# User Story: Exploring Healing Techniques
+
+As a user interested in holistic healing and well-being, I want to visit the Method of Healing website to explore unique healing techniques and gain valuable insights.
+
+### [Homepage]
+
+- I land on the homepage and see a clear introduction to the Method of Healing.
+- The navigation menu helps me easily access different sections of the website.
+
+### [Elena Method]
+
+- I click on the "Elena Method" section to learn about the principles and techniques behind this unique approach.
+- Engaging visuals and concise information help me understand the key concepts.
+
+### [Research]
+
+- I navigate to the "Research" page to explore scientific and technological research conducted by experts like Gregory Grabovoi and Method Yuen.
+- The content provides me with insights into the scientific foundations of the healing methods.
+
+### [Interactive Exploration]
+
+- I use the user-friendly navigation to explore different sections, including the activities of the Grigori Grabovoi Foundation and various aspects of healing.
+- Captivating visuals and multimedia content enhance my overall experience.
+
+### [Technologies]
+
+- I click on the "Technologies" section to learn about cutting-edge technologies developed by Grigori Grabovoi.
+- Details about the PRK-1U device and its potential for the development of concentrations for eternal life capture my interest.
+
+### [Method Yuen]
+
+- I visit the "Method Yuen" section to delve into the teachings of Method Yuen, a martial arts expert.
+- Information on activating physical intelligence and achieving immediate results intrigues me.
+
+### [Resources]
+
+- I explore the "Resources" page to find videos and articles that allow me to delve deeper into the concepts and techniques introduced on the website.
+- The resource library provides a wealth of information to support my learning.
+
+### [Community Engagement]
+
+- I visit the "Community" section to connect with like-minded individuals on social media platforms such as YouTube, Instagram, Facebook, and Twitter.
+- Engaging in discussions and staying updated on the latest developments becomes part of my journey.
+
+### [Getting Personalized Guidance]
+
+- I use the contact form to get in touch with Elena and her team, sharing my wellness objectives and leaving comments.
+- I may also request personalized guidance to enhance my healing journey.
+
+### [Continued Engagement]
+
+- I subscribe to newsletters or follow the blog to stay informed about new resources and developments.
+- I become an active member of the Method of Healing community, contributing to discussions and sharing my experiences.
+
+*Note: This is a template frame showcasing the Elena Method of Healing.*
+
+
 ## Screenshots
 
-![Screenshot 1](/image/img/b1.webp)
-![Screenshot 2](/image/img/b2.webp)
-![Screenshot 3](/image/img/b3.webp)
+Welcome to the visual showcase of the Method of Healing website. In this section, we present a series of screenshots that provide a comprehensive overview of the website's design and functionality. These images offer a glimpse into key elements, including the home page, navigation bar, sliding features, and the main body of the website.
+
+### Overview
+
+- **Home Page:** Explore the initial impression and aesthetic appeal of the home page.
+- ![Screenshot 1](/image/img/b1.webp)
+- **Navigation Bar:** Get a closer look at the intuitive navigation bar for seamless exploration.
+- ![Screenshot 2](/image/img/b2.webp)
+- **Sliding Features:** Witness dynamic sliding features that enhance user engagement.
+- ![Screenshot 3](/image/img/b3.webp)
 ![Screenshot 4](/image/img/prk-1.webp)
-![Screenshot 5](/image/img/b5.webp)
+- **Main Body:** Dive into the core content and layout of the Method of Healing website.
+- ![Screenshot 5](/image/img/b5.webp)
+
+These screenshots not only highlight the visual aspects but also aim to convey the user interface's elegance and the overall user experience. Take a moment to explore these snapshots, gaining insights into the design philosophy and functionality that define the Method of Healing website.
+
+ 
+
+
+
+
+
 
 ## Wireframe
 
@@ -347,80 +423,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 © Software Developer Lesly 2022
-
-
-
-
-# Method of Healing Website
-
-Welcome to the Method of Healing website! This README provides an overview of user interactions through a typical journey on our platform.
-
-## User Story: Exploring Healing Techniques
-
-As a user interested in holistic healing and well-being, I want to visit the Method of Healing website to explore unique healing techniques and gain valuable insights.
-
-### [Homepage]
-
-- I land on the homepage and see a clear introduction to the Method of Healing.
-- The navigation menu helps me easily access different sections of the website.
-
-### [Elena Method]
-
-- I click on the "Elena Method" section to learn about the principles and techniques behind this unique approach.
-- Engaging visuals and concise information help me understand the key concepts.
-
-### [Research]
-
-- I navigate to the "Research" page to explore scientific and technological research conducted by experts like Gregory Grabovoi and Method Yuen.
-- The content provides me with insights into the scientific foundations of the healing methods.
-
-### [Interactive Exploration]
-
-- I use the user-friendly navigation to explore different sections, including the activities of the Grigori Grabovoi Foundation and various aspects of healing.
-- Captivating visuals and multimedia content enhance my overall experience.
-
-### [Technologies]
-
-- I click on the "Technologies" section to learn about cutting-edge technologies developed by Grigori Grabovoi.
-- Details about the PRK-1U device and its potential for the development of concentrations for eternal life capture my interest.
-
-### [Method Yuen]
-
-- I visit the "Method Yuen" section to delve into the teachings of Method Yuen, a martial arts expert.
-- Information on activating physical intelligence and achieving immediate results intrigues me.
-
-### [Resources]
-
-- I explore the "Resources" page to find videos and articles that allow me to delve deeper into the concepts and techniques introduced on the website.
-- The resource library provides a wealth of information to support my learning.
-
-### [Community Engagement]
-
-- I visit the "Community" section to connect with like-minded individuals on social media platforms such as YouTube, Instagram, Facebook, and Twitter.
-- Engaging in discussions and staying updated on the latest developments becomes part of my journey.
-
-### [Getting Personalized Guidance]
-
-- I use the contact form to get in touch with Elena and her team, sharing my wellness objectives and leaving comments.
-- I may also request personalized guidance to enhance my healing journey.
-
-### [Continued Engagement]
-
-- I subscribe to newsletters or follow the blog to stay informed about new resources and developments.
-- I become an active member of the Method of Healing community, contributing to discussions and sharing my experiences.
-
-*Note: This is a template frame showcasing the Elena Method of Healing.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
