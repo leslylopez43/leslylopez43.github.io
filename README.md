@@ -100,9 +100,8 @@ In the above image, the validator identified an error
 |------------------|------------------------|
 |  #### Errors and Corrections      | ![error](/image/img/cssvalidator.webp) |
 | In the process of developing this project, we encountered CSS validation errors and applied corrections.|
-![correction](/image/img/ccsvalidator-error.webp)
-
-To address the validator error, we applied the following correction
+![correction](/image/img/ccsvalidator-error.webp)|To address the validator error, we applied the following correction
+|                     |
 
 
 ## lighthouse resource with chrome
