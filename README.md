@@ -87,15 +87,19 @@ This is a Website template frame. showcasing the Elena Method of Healing.
 
 
 ## validator w3 CSS
- #### Errors and Corrections
-In the process of developing this project, we encountered CSS validation errors and applied corrections.
+
+
 ### Error
-![error](/image/img/cssvalidator.webp)
+
 
 In the above image, the validator identified an error
 
 ### CSS Validator Correction
 
+| Field            | Description            |
+|------------------|------------------------|
+|  #### Errors and Corrections      | ![error](/image/img/cssvalidator.webp) |
+| In the process of developing this project, we encountered CSS validation errors and applied corrections.|
 ![correction](/image/img/ccsvalidator-error.webp)
 
 To address the validator error, we applied the following correction
